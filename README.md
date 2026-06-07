@@ -11,6 +11,10 @@
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![lang](https://img.shields.io/badge/lang-EN%20%7C%20%E4%B8%AD%E6%96%87-brightgreen)](#)
 
+<br/>
+
+<code>npx skills add wujiajun4/skill-lens -g</code>
+
 </div>
 
 ---
